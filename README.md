@@ -1,2 +1,2 @@
 # Raspberry-Hub
-Automation project - early stages - colect temperature and put on database
+Automation project - early stages - colect temperature and put into database
